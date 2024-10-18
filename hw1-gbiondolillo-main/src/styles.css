@@ -1,0 +1,11 @@
+/* src/styles.css */
+.tv-show-card {
+    border: 1px solid #ddd;
+    padding: 16px;
+    margin: 16px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: rgb(143, 143, 143);
+    color: white;
+  }
+  
